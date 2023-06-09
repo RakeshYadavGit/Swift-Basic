@@ -1,3 +1,3 @@
-entrypoint = "String/AddDigitOfString.swift"
+entrypoint = "String/PrintCharPresentAtEvenIndex.swift"
 
 modules = ["swift"]
