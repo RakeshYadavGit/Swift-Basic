@@ -1,3 +1,3 @@
-entrypoint = "Basic/UseOfTuple.swift"
+entrypoint = "String/ReverseString.swift"
 
 modules = ["swift"]
